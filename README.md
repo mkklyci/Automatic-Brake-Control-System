@@ -7,6 +7,7 @@ This repository contains the code and schematic for an automatic brake control s
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Component List] (#component list)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -28,9 +29,34 @@ The installation steps will be something like:
 
 Describe how to run the system after installation.
 
+## Components List
+- Arduino UNO R3 Clone with Gifted USB Cable (USB Chip CH340) x 1
+- Arduino Uno Sensor Shield x 1
+- L298N Voltage Regulated Dual Motor Driver Board (Red PCB) x 1
+- Tower Pro SG90 RC Mini Servo Motor (9g) x 2
+- IR Receiver and Transmitter Remote Control Set - IR Receiver Module Wireless Remote Control Kit x 1
+- HC06 Bluetooth-Serial Module Card x 1
+- 4-Way Line Tracking Sensor Set x 1
+- HC-SR04 Ultrasonic Distance Sensor x 1
+- Mini Pan-Tilt Kit (Excluding Servos) x 1
+- 40-Pin Separable Female-to-Female (F-F) Jumper Cable-200mm x 1
+- Metal Spacers 30mm x 4
+- 4-Cell Battery Holder x 1
+- 6V 250 RPM Motor - Yellow Motor x 4
+- Wheel Compatible with 6V 250 RPM Motor - Yellow Wheel x 4
+- M3 Nut x 16
+- M3*6MM Bolt x 6
+- M3*30MM Bolt x 8
+- M3*10MM Bolt x 2
+- Plastic Motor Holder x 8
+- Upper and Lower Transparent Plexiglass Body x 2
+- Plexiglass Encoder Disk x 2
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you
+
 
 ## License
 
